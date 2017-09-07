@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/admin/Desktop/android_bangla_calendar-master1/app/build/intermediates/res/merged/debug/layout/programmer.xml",
+        "source": "/Users/admin/Desktop/android_bangla_calendar-master1/app/src/main/res/layout/programmer.xml"
+    },
+    {
+        "merged": "/Users/admin/Desktop/android_bangla_calendar-master1/app/build/intermediates/res/merged/debug/layout/activity_bangla_calender.xml",
+        "source": "/Users/admin/Desktop/android_bangla_calendar-master1/app/src/main/res/layout/activity_bangla_calender.xml"
+    },
+    {
+        "merged": "/Users/admin/Desktop/android_bangla_calendar-master1/app/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/Users/admin/Desktop/android_bangla_calendar-master1/app/src/main/res/layout/widget.xml"
+    }
+]
